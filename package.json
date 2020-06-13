@@ -1,0 +1,29 @@
+{
+  "name": "awaitable-array-methods",
+  "version": "0.0.1",
+  "description": "Awaitable Array.prototype.(forEach|map|filter|reduce), because of course there should be such animals.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fluffynuts/awaitable-array-methods.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluffynuts/awaitable-array-methods/issues"
+  },
+  "homepage": "https://github.com/fluffynuts/awaitable-array-methods#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "@types/node": "^14.0.6",
+    "faker": "^4.1.0",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.3"
+  }
+}
